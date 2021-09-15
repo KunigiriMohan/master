@@ -23,5 +23,5 @@ do
 		fi
 
 done
-echo $wage
-echo $wage_hour
+echo " total wage according to day "$wage
+echo " total wage according to hour "$wage_hour
